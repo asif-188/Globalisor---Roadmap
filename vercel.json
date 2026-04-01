@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/roadmap.html", "destination": "/roadmap.html" },
+    { "source": "/((?!roadmap\\.html|globalisor\\.svg).*)" , "destination": "/index.html" }
+  ]
+}
